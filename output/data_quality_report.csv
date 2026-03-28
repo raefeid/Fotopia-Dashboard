@@ -1,0 +1,8 @@
+Category,Count,Details,Examples
+Unmapped Entries,134,Clockify entries with no product mapping,KFH; Miscellaneous; R&D; Demo Support; Marketing
+Low Confidence Mappings,248,Mapping confidence < 0.8,fotopia_email_autoclassify
+Suspicious Entries,277,Flagged by suspicious entry detection,Empty description AND empty tags (low quality); Thejaswini.nagaraju: possible automated minimal logging (0:08 pattern); Empty description with duration > 1 hour; Empty description AND empty tags (low quality); Empty description AND empty tags (low quality); Duration > 10 hours; Empty description with duration > 1 hour
+Empty Descriptions,263,Entries with no description text,
+Fotopia Bucket,223,Auto-classified as 'Fotognize',
+Fotopia Bucket,24,Auto-classified as 'Internal/Management',
+Fotopia Bucket,1,Auto-classified as 'Unknown',
